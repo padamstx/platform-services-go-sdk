@@ -20,8 +20,8 @@ package casemanagementv1
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/IBM/go-sdk-core/v4/core"
-	common "github.com/IBM/platform-services-go-sdk/common"
+	"github.com/padamstx/go-sdk-core/v4/core"
+	common "github.com/padamstx/platform-services-go-sdk/common"
 	"io"
 	"reflect"
 	"strings"

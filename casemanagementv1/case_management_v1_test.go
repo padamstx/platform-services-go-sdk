@@ -19,8 +19,8 @@ package casemanagementv1_test
 import (
 	"bytes"
 	"fmt"
-	"github.com/IBM/go-sdk-core/v4/core"
-	"github.com/IBM/platform-services-go-sdk/casemanagementv1"
+	"github.com/padamstx/go-sdk-core/v4/core"
+	"github.com/padamstx/platform-services-go-sdk/casemanagementv1"
 	"github.com/go-openapi/strfmt"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
